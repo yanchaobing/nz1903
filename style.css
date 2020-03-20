@@ -3,5 +3,8 @@ div{
     width:100px;
     border: 1px solid #000;
     background-color: greenyellow;
-    
+    font-size: 30px;
 }
+
+p{font-size:24px;}
+  
