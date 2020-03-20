@@ -6,5 +6,10 @@ div{
     font-size: 30px;
 }
 
-p{font-size:24px;}
+p{
+    font-size:24px;
+    color:red;
+    line-height:36px;
+
+}
   
